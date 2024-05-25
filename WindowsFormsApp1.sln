@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{5FDA7A0A-9DC4-4AD5-A31B-5B857DF38A61}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Dentist", "Dentist\Dentist.vdproj", "{CF032830-3460-4CE4-95C1-75F7DE42D5E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FDA7A0A-9DC4-4AD5-A31B-5B857DF38A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDA7A0A-9DC4-4AD5-A31B-5B857DF38A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDA7A0A-9DC4-4AD5-A31B-5B857DF38A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDA7A0A-9DC4-4AD5-A31B-5B857DF38A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF032830-3460-4CE4-95C1-75F7DE42D5E7}.Debug|Any CPU.ActiveCfg = Debug
+		{CF032830-3460-4CE4-95C1-75F7DE42D5E7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA77787-3E6C-4E2C-88BB-FAF823638991}
+	EndGlobalSection
+EndGlobal
